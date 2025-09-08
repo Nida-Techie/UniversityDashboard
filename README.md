@@ -65,6 +65,7 @@ Embed the Superset dashboard using <iframe> or Superset's Embedded SDK.
 Ensure the website displays the live dashboard without requiring login.
 
 **Repository Structure**
+<br>
 UniversityDashboard/
 │
 ├── docker-compose.yml
@@ -75,10 +76,6 @@ UniversityDashboard/
 │   └── style.css
 └── README.md
 
-**Screenshots**
 
-(Add a screenshot of your live website with the embedded dashboard here)
-
-![Dashboard Screenshot](website/screenshot.png)
 
 
